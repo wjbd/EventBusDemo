@@ -1,6 +1,7 @@
 ## 前言
 >Brocast Receiver:广播接收者——Android系统自带的广播组件。  
 EventBus:一个发布 / 订阅的事件总线。简单的说：就是两人约定好怎么通信，一人发布消息，另外一个约定好的人立马接收到你发的消息。EventBus可以帮减少很多事，不管你在任何地方任何位置发布一个事件，接收者都能立马接收到你的消息，不用你考虑android子线程操作UI线程的问题。
+
 ## EventBus
 EventBus是GreenRobot的一个开源库。[EventBus](http://greenrobot.org/eventbus/)官网上是这么介绍EventBus的：  
 >EventBus是一个开源库，用来让Android开发中订阅者/接收者降低耦合度的。EventBus使中央通信解耦类只有几行代码,简化代码,移除依赖,和加速应用程序开发。
