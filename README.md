@@ -14,6 +14,7 @@ EventBus是GreenRobot的一个开源库。[EventBus](http://greenrobot.org/event
 - 避免了复杂且容易出错的依赖关系和生命周期问题
 - 快，专为高性能优化
 - 很小（<50K Jar）
+
 ### EventBus的特点
 - 基于注解的API：简答的使用只要把@Subscribe注解到方法上就可以。
 - 可以在Android的主线程使用。
